@@ -1,5 +1,15 @@
 # Pixapad
-A programing macropad that improves workflow and boosts productivity
+
+Pixapad is a 12-key programmable macropad designed for programmers. It provides quick access to common coding actions such as build, run, comment, copy, paste, and terminal commands, reducing repetitive keyboard shortcuts and improving workflow.
+
+# Features
+
+
+- 12 programmable keys
+- Rotary encoder for scrolling and navigation
+- Powered by Seeed XIAO RP2040
+- KMK/QMK firmware support
+- Compact desktop footprint
 
 
 # Schematic 
