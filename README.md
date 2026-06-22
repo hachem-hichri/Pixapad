@@ -11,7 +11,7 @@ A programing macropad that improves workflow and boosts productivity
  # PCB design 
  
  
- <img width="311" height="290" alt="image" src="https://github.com/user-attachments/assets/892bc4fc-0623-4cd6-9116-ff19ed120e40" />
+ <img width="389" height="278" alt="image" src="https://github.com/user-attachments/assets/26464c9a-f1a1-4ca6-ae8a-b636882b9a2e" />
 
 # BOM
 1x unsoldered Seeed XIAO RP2040
